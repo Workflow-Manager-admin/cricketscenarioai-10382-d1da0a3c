@@ -1,0 +1,4 @@
+{
+    "command": "source venv/bin/activate && flask run --host <host> --port <port>",
+    "working_directory": "/home/kavia/workspace/code-generation/cricketscenarioai-10382-d1da0a3c/cricket_api_backend"
+}
